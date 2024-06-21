@@ -1,0 +1,8 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:color/black"/>
+    <item>
+        <bitmap
+            android:src="@drawable/gamer_background_image"
+            android:gravity="center"/>
+    </item>
+</layer-list>

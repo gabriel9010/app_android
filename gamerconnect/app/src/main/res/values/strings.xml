@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GamerConnect</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="player_name">Player Name</string>
+    <string name="category">Category</string>
+    <string name="type_message">Type a message</string>
+    <string name="send">Send</string>
+</resources>
